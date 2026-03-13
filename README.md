@@ -1,5 +1,7 @@
 # Web Scraping & Data Extraction Portfolio
 
+Python | Web Scraping | Selenium | Playwright | Scrapy | Data Extraction
+
 A collection of real-world web scraping and automation projects built using Python.
 This repository demonstrates practical techniques for extracting structured data from websites using modern scraping frameworks and automation tools.
 
